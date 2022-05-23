@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @glitterhotsauce
+- 👋 Hi, I’m Holly!
 - 👀 I’m interested in working on my coding skills.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on anything!
